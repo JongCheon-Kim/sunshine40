@@ -5,9 +5,10 @@
 
 각 파트는 현장 연습 + 개인 연습에 최적화되도록 구성되어 있습니다.
 
-[🎵 햇살 40주년 공연 준비용 플레이리스트](https://www.youtube.com/playlist?list=PL9dTelHKpPOVJPTdCMCxrRtkdhWJMJXm7)
 
----
+## 🎬 참고용 유튜브 플레이리스트
+
+[🎵 햇살 40주년 공연 준비용 플레이리스트](https://www.youtube.com/playlist?list=PL9dTelHKpPOWhXKbZ67fdL18pEpjcP6nX)
 
 ## 📁 폴더 구성
 
